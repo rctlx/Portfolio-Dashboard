@@ -1,0 +1,8 @@
+Ticker,Stock,Category,Sector,Qty,BuyPrice
+DIXON.NS,Dixon Technologies,Stock,Manufacturing,5,12000
+PERSISTENT.NS,Persistent Systems,Stock,IT,10,5600
+MCX.NS,MCX,Stock,Capital Markets,15,3000
+MARICO.NS,Marico,Stock,FMCG,50,650
+POWERGRID.NS,Power Grid,Stock,Utilities,100,320
+ICICIBANK.NS,ICICI Bank,Stock,Banking,50,1250
+GOLDBEES.NS,GoldBees,Gold,Gold ETF,25,70
